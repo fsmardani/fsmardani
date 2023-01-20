@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fatemeh!</h1>
-<h3 align="center">A Software Engineer and Data Analyst..</h3>
+<h3 align="center">Software Engineer, Data Analyst and Lifetime learner..!</h3>
 
 - 🌱 I’m currently having fun with **ML projects.**
 
-- 📫 How to reach me **fatemehsmardani@gmail.com**
+- 📫 Reach me **fatemehsmardani@gmail.com**
 
-- 📄 Know about my experiences [fsmardani.github.io](fsmardani.github.io)
+- 📄 See more about me on [fsmardani.github.io](fsmardani.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
