@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently having fun with **ML projects.**
 
-- 📫 Reach me **fatemehsmardani@gmail.com**
+- 📫 Contact me with **fatemehsmardani@gmail.com**
 
 - 📄 See more about me on [fsmardani.github.io](fsmardani.github.io)
 
