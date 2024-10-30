@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatemeh!</h1>
 <h3 align="center">A Software Engineer, Data Analyst and Lifetime Learner..!</h3>
 
-- 🌱 I’m currently having fun with **ML projects.**
+- 🌱 I currently having fun with **ML projects.**
 
 - 📫 Contact me with **fatemehsmardani@gmail.com**
 
