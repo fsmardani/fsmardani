@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fatemeh!</h1>
-<h3 align="center">A Software Engineer, Data Analyst and Lifetime Learner..!</h3>
+<h3 align="center">Live Extreme!</h3>
 
-- 🌱 I currently having fun with **ML projects.**
 
 - 📫 Contact me with **fatemehsmardani@gmail.com**
 
